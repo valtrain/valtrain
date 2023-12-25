@@ -6,7 +6,7 @@
 -->
 
 ## About Me
-- 👋 Hi, I’m @valtrain
+- 👋 Hello world.
 
 
 ## Tech Stack
